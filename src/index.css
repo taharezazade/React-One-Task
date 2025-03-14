@@ -1,0 +1,71 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#root {
+  width: 80%;
+  margin: 0 auto;
+  padding: 5rem;
+  text-align: center;
+  font-family: "AtypDisplayTRIAL-Regular";
+}
+
+@font-face {
+  font-family: "AtypDisplayTRIAL-Bold";
+  src: url("../assets/font/AtypDisplayTRIAL-Bold-BF65727125c8d1d.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "AtypDisplayTRIAL-Light";
+  src: url("../assets/font/AtypDisplayTRIAL-Light-BF65727125c722b.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "AtypDisplayTRIAL-Medium";
+  src: url("../assets/font/AtypDisplayTRIAL-Medium-BF65727125b8683.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "AtypDisplayTRIAL-Regular";
+  src: url("../assets/font/AtypDisplayTRIAL-Regular-BF65727125d566e.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "AtypDisplayTRIAL-Semibold";
+  src: url("../assets/font/AtypDisplayTRIAL-Semibold-BF65727125c6fc9.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "AtypTextTRIAL-Bold";
+  src: url("../assets/font/AtypTextTRIAL-Bold-BF65727125ceed1.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "AtypTextTRIAL-Light";
+  src: url("../assets/font/AtypTextTRIAL-Light-BF657271260361b.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "AtypTextTRIAL-Medium";
+  src: url("../assets/font/AtypTextTRIAL-Medium-BF65727125d9c4c.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "AtypTextTRIAL-Regular";
+  src: url("../assets/font/AtypTextTRIAL-Regular-BF65727125ea126.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "AtypTextTRIAL-Semibold";
+  src: url("../assets/font/AtypTextTRIAL-Semibold-BF65727125e65f1.otf")
+    format("opentype");
+}
